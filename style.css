@@ -177,6 +177,7 @@ nav {
   gap: 40px;
   align-items: center;
   padding: 60px 0;
+  
 }
 .badge {
   display: inline-block;
@@ -220,7 +221,7 @@ nav {
   color: var(--text-soft);
   font-size: 14px;
 }
-/* .hero-visual {
+.hero-visual {
  
 
   border-radius: 24px;
@@ -228,7 +229,7 @@ nav {
 
  
 
-} */
+}
 .hero-visual img{
     border-radius: 5%;
 
