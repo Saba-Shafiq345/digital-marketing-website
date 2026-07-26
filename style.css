@@ -176,11 +176,7 @@ nav {
   grid-template-columns: 1fr 1fr;
   gap: 40px;
   align-items: center;
-  padding: 60px 0;
-  
-}
-.badge {
-  display: inline-block;
+  padding: 60px 20px
   background: var(--bg-soft);
   color: var(--primary);
   padding: 6px 14px;
