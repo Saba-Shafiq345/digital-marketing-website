@@ -177,7 +177,7 @@ nav {
   gap: 40px;
   align-items: center;
   padding: 60px 20px;
-  margin: le 25px;
+  margin: 0 25px;
 }
 .badge {
   display: inline-block;
@@ -188,7 +188,7 @@ nav {
   font-size: 13px;
   font-weight: 600;
   margin-bottom: 16px;
-  margin-right:20px
+  margin-right: 20px;
 }
 .hero h1 {
   font-size: 44px;
@@ -222,18 +222,14 @@ nav {
   color: var(--text-soft);
   font-size: 14px;
 }
-/* .hero-visual {
- 
-
+.hero-visual {
+  position: relative;
+  background: var(--bg-soft);
   border-radius: 24px;
   padding: 40px;
-
- 
-
-} */
-.hero-visual img{
-    border-radius: 5%;
-
+}
+.hero-visual img {
+  border-radius: 12px;
 }
 
 .float-card {
@@ -754,8 +750,9 @@ footer ul li {
   .footer-grid {
     grid-template-columns: 1fr;
   }
-  .hero{
- padding-right: 20px;
+  .hero {
+    padding: 40px 20px;
+    margin: 0;
   }
   .hero h1 {
     font-size: 32px;
