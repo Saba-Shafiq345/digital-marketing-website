@@ -176,8 +176,8 @@ nav {
   grid-template-columns: 1fr 1fr;
   gap: 40px;
   align-items: center;
-  padding: 60px 0;
-  margin: 25px;
+  padding: 60px 20px;
+  margin: le 25px;
 }
 .badge {
   display: inline-block;
