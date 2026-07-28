@@ -226,7 +226,8 @@ nav {
   position: relative;
   background: var(--bg-soft);
   border-radius: 24px;
-  padding: 12px;   
+  padding: 12px; 
+  
 .hero-visual img {
   width: 100%;         
   height: auto;
