@@ -754,7 +754,7 @@ footer ul li {
     grid-template-columns: 1fr;
   }
   .hero{
- margin: 20px;
+ padding: 20px;
   }
   .hero h1 {
     font-size: 32px;
